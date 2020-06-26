@@ -1,7 +1,8 @@
 # Bacno next Clone
 
-## React Native
-## Styled-Components
+- **`*`**: React Native
+- **`*`**: Styled-Components
+- **`*`**: React Native
 
 <div style="display:flex">
 <img src="githubimg/Screenshot_20200624-100917477.jpg"  style="margin-right:20px" width="400px">

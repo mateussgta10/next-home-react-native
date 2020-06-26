@@ -1,4 +1,4 @@
-# Bacno next Clone
+# Banco next Clone
 
 - **`*`**: React Native
 - **`*`**: Styled-Components

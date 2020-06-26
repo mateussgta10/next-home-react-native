@@ -1,4 +1,4 @@
-# BANCO NEXT Clone
+# Bacno next Clone
 
 ## React Native
 ## Styled-Components
@@ -15,6 +15,9 @@ style="margin-right:10px" width="400px">
 
 </div>
 
+---
+
+Feito com 💜 by Mateus Santana
 
 
 
